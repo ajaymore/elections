@@ -1,0 +1,32 @@
+{
+	"name": "apu-elections",
+	"version": "0.1.0",
+	"private": true,
+	"dependencies": {
+		"axios": "^0.16.2",
+		"firebase": "^4.2.0",
+		"lodash": "^4.17.4",
+		"office-ui-fabric-react": "^4.31.0",
+		"react": "^15.6.1",
+		"react-bootstrap": "^0.31.2",
+		"react-dnd": "^2.4.0",
+		"react-dnd-html5-backend": "^2.4.1",
+		"react-dom": "^15.6.1",
+		"react-redux": "^5.0.5",
+		"react-router-dom": "^4.1.2",
+		"react-router-redux": "next",
+		"redux": "^3.7.2",
+		"redux-form": "^7.0.3",
+		"redux-thunk": "^2.2.0",
+		"selenium-webdriver": "^3.5.0"
+	},
+	"devDependencies": {
+		"react-scripts": "1.0.11"
+	},
+	"scripts": {
+		"start": "react-scripts start",
+		"build": "react-scripts build",
+		"test": "react-scripts test --env=jsdom",
+		"eject": "react-scripts eject"
+	}
+}

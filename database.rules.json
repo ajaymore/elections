@@ -1,0 +1,21 @@
+{
+	"rules": {
+		".read": "auth != null",
+		".write": "auth != null",
+		"chat": {
+			".read": "true",
+			".write": "true"
+		},
+		"unread": {
+			".read": "true",
+			".write": "true"
+		},
+		"elections": {
+			"$id": {
+				"voters": {
+					".indexOn": [ "Email", "APU Id" ]
+				}
+			}
+		}
+	}
+}

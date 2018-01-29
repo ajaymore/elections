@@ -1,0 +1,34 @@
+[] Setup documentation
+[] User functional documentation
+[] Reduxify
+[] Tests for Redux, For components, PropTypes for each
+[] Setting up utils
+[] Form Validations
+[] add time element
+[] write storage-nodes specification
+[] 
+[] Shorter components
+[] make crucial writes server side [poll-officer sets form, voter submits votes]
+[] clean up routes
+[] publish
+[] remove bootstrap
+[] write a medium article
+[] make a video tutorial
+
+react-router full fledged use-case example, with login-flow, navigations (side panel, nested, top panel, tabs)
+material-ui use-case
+react-bootstrap use-case
+flexbox
+svg
+redux, redux-forms
+react animations
+charts
+maps
+layouts
+http://react-dnd.github.io/react-dnd/examples-sortable-simple.html
+
+10 weeks
+
+Algorithms
+Laravel
+Django

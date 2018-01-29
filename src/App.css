@@ -1,0 +1,33 @@
+.search-container {
+	position: absolute;
+	top: 100%;
+	width: 100%;
+	z-index: 100;
+	box-shadow: 0px 2px 4px -1px rgba(0, 0, 0, 0.2), 0px 4px 5px 0px rgba(0, 0, 0, 0.14),
+		0px 1px 10px 0px rgba(0, 0, 0, 0.12);
+	margin-top: 10px;
+	background: #fff;
+}
+
+.login-form {
+	max-width: 300px;
+	margin-top: 100px;
+	margin: 100px auto 0;
+	box-shadow: 0px 2px 4px -1px rgba(0, 0, 0, 0.2), 0px 4px 5px 0px rgba(0, 0, 0, 0.14),
+		0px 1px 10px 0px rgba(0, 0, 0, 0.12);
+	padding: 20px 40px 40px;
+}
+
+.search-container p {
+	cursor: default;
+	padding: 7px 10px 7px;
+	margin-bottom: 0;
+}
+
+.search-container p:hover {
+	background: #e7e7e7;
+}
+
+.results-table tr th {
+	width: 33%;
+}
